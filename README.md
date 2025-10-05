@@ -65,11 +65,16 @@ From automated resume parsing to intelligent candidate matching, interview score
 ## 🎬 Demo
 
 - **Dashboard Overview**  
-  ![Show Image]()  
+  ![Show Image](assets/tf1.png) 
+  ![Show Image](assets/tf2.png) 
+  ![Show Image](assets/tf3.png)   
 - **Candidate Pipeline**  
-  ![Show Image]()  
+  ![Show Image](assets/tf4.png) 
+  ![Show Image](assets/tf6.png) 
 - **Analytics**  
-  ![Show Image]()  
+  ![Show Image](assets/tf5.png) 
+  ![Show Image](assets/tf7.png) 
+  ![Show Image](assets/tf8.png) 
 
 ---
 
