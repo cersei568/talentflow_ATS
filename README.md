@@ -5,6 +5,9 @@
 
 *A professional recruitment management system powered by AI for intelligent resume parsing and candidate matching.*
 
+👉 Try the app: **[Demo Link (Streamlit)](https://talentflowats.streamlit.app)**  
+👉 Explore the code: **[GitHub Repository](https://github.com/cersei568/talentflow_ATS)**  
+
 
 ## 📋 Overview
 
